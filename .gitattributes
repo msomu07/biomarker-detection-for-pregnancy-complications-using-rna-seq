@@ -1,1 +1,2 @@
-*.jupyternotebook linguist-detectable=false
+# to change language of repo from Jupyter Notebook to Python
+*.ipynb linguist-language=Python
